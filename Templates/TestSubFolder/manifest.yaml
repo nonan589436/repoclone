@@ -1,5 +1,5 @@
 name: Test_Template3
-version: 1.0.0
+version: 1.2.0
 description: A very good template.
 engine:
   type: ARM
