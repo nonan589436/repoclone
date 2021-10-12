@@ -1,4 +1,4 @@
-name: Test_Template
+name: MSI
 version: 1.0.0
 description: Add this new template to trip the orchestration up on resync...
 engine:
